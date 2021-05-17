@@ -1,4 +1,4 @@
-# NumPy efficiency
+# With the help of NumPy library efficiency
 import numpy as np
 
 ratings = np.array([
